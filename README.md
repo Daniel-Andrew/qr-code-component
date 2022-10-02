@@ -1,4 +1,4 @@
-- Live Site URL: [Add live site URL here](https://daniel-andrew.github.io/qr-code-component/)
+- [Live Site](https://daniel-andrew.github.io/qr-code-component/)
 
 # Frontend Mentor - QR code component solution
 
@@ -15,11 +15,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-### Links
-
-- Live Site URL: [Add live site URL here](https://daniel-andrew.github.io/qr-code-component/)
-
-## My process
 
 ### Built with
 
@@ -39,7 +34,3 @@ I had a taste of Bootstrap 5 for the first time and learned a lot. It's definete
 I would like to become more reliant on Bootstrap and be able to use it flawlessly in the future.
 
 
-## Author
-
-- Website - [Daniel Andrew](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
